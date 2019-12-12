@@ -1,0 +1,45 @@
+.answers {
+    border-top: 5px solid green;
+}
+
+.question {
+    text-decoration: none;
+    text-align: center;
+    line-height: 80px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.optionsList {
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+    cursor: pointer !important;
+    background-color: #f8f9fa!important;
+}
+
+.optionsList:hover {
+    background-color: indigo !important;
+    color: white !important;
+}
+
+.showqnumbers {
+    cursor: pointer !important;
+}
+
+.selectedAnswer {
+    background-color: green !important;
+    color: white !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.show-inline {
+    display: inline;
+}

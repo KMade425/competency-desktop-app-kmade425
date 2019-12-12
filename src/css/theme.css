@@ -1,0 +1,135 @@
+.iconMenu {
+    cursor: pointer;
+}
+
+#startExam {
+    border-radius: 15px !important;
+    font-weight: 600;
+}
+
+.shadow {
+    -webkit-box-shadow: 0 0.125rem 0.8rem rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0 0.125rem 0.8rem rgba(0, 0, 0, 0.1) !important;
+}
+
+.headerDiv {
+    z-index: 999;
+}
+
+body {
+    font-family: "Poppins", sans-serif !important;
+    background-color: #F8F9FB !important;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.sidebar-list-item {
+    background: #FFFFFF !important;
+}
+
+.sidebar-link.active,
+.sidebar-link:focus {
+    background: #4680ff;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.sidebar .sidebar-link {
+    display: block;
+}
+
+.sidebar-link svg {
+    fill: #adb5bd;
+}
+
+.sidebar-link.active svg {
+    fill: #FFFFFF;
+}
+
+.sidebar-link.logout svg {
+    fill: #FFFFFF;
+}
+
+.sidebar-link.logout {
+    color: #FFFFFF !important;
+}
+
+.sidebar-link.logout:focus {
+    background: #dc3545 !important;
+    color: #FFFFFF !important;
+}
+
+.sidebar-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transition: background 0.3s;
+    transition: background 0.3s;
+    padding: 1rem 1.5rem;
+}
+
+.overlayblock {
+    position: fixed !important;
+    width: 100% !important;
+    height: 100% !important;
+    left: 0px !important;
+    top: 0px !important;
+    z-index: 99999999;
+}
+
+buttons {
+    position: absolute !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999999991 !important;
+}
+
+.sidebar {
+    width: 16rem;
+    background: #fff;
+    -webkit-box-shadow: 0 0.125rem 0.8rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.125rem 0.8rem rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.text-uppercase {
+    letter-spacing: 0.2em;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.page-holder {
+    overflow-x: hidden;
+    min-height: calc(100vh - 72px);
+}
+
+.bg-violet {
+    background-color: #DF99CA !important;
+}
+
+.dot {
+    max-width: 10px;
+    min-width: 10px;
+    max-height: 10px;
+    min-height: 10px;
+    border-radius: 50%;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.show {
+    visibility: visible !important;
+}

@@ -1,0 +1,214 @@
+{
+    "status": "1",
+    "questions": [{
+            "question": "What are the two main troubleshooting areas in the air conditioning service field?",
+            "options": {
+                "a": "Hydraulics and pump problems",
+                "b": "switch and electrical problems",
+                "c": "on and off problems",
+                "d": "mechanical and electrical problems"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What information does the low side of pressure readings gives the service engineer?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What information does the high side of pressure readings gives the service engineer?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the operating superheat for an air conditioning evaporator coil used for?",
+            "options": {
+                "a": "To prove coil maintenance",
+                "b": "To know various reading points",
+                "c": "To do nothing",
+                "d": "None of the above"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is typical indoor air condition at which a homeowner operates a system?",
+            "options": {
+                "a": "Standard air conditioning for rating equipment are 80F return air and 50% humidity when the outside temperature is 15F",
+                "b": "Standard air conditioning for rating equipment are 80F return air and 50% humidity when the outside temperature is 22F",
+                "c": "Standard air conditioning for rating equipment are 80F return air and 50% humidity when the outside temperature is 95F",
+                "d": "Standard air conditioning for rating equipment are 80F return air and 10% humidity when the outside temperature is 95F"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "what is the temperature at which the typical air conditioning evaporator coil operates?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the typical difference between the entering air and the boiling refrigerant temperature on a standard air conditioning evaporator?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the best method of charging an air conditioning system that is low in refrigerant?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "When the outside ambient air temperature is 90F, at what temperature should the refrigerant in the condenser be condensing and what is the head pressure for an R-22 system?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What number are printed on a refrigerant gauge beside pressure?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "How can a service technician measure the superheat at the condensing unit if the system is a split unit system?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "When the ambient temperature is 95F and the unit is a high efficiency unit, what is the lowest condensing refrigerant temperature when the unit is operating properly, and what would the head pressure be for R-22?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "How is high efficiency accomplished in an air conditioning condensing unit?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Name two methods for fastening gauge manifolds to an air conditioning system?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which control in the compressor stop the compressor when the motor gets hot?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "When the compressor is off due to the control in question 15, which terminal on the compressor will have continuity?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What instrument is used to measure the current draw of a compressor?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What instrument is used to measure continuity in a compressor winding?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What normally happens when a compressor that is electrically grounded tries to start?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What should a technician do if the circuit breaker is tripped?",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "",
+            "options": {
+                "a": "Obama",
+                "b": "Trump",
+                "c": "Saraki",
+                "d": "Buhari"
+            },
+            "answer": "b"
+        }
+    ]
+}

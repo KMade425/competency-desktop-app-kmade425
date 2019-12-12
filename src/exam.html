@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link href="css/exam.css" rel="stylesheet" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container-fluid mb-2 text-muted" id="Q">
+        <br>
+        <div class="container mb-2">
+            <svg style="width:24px;height:24px" viewBox="0 0 24 24" class="showqnumbers" id="showqnumbers">
+                <path fill="#000000" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
+            </svg>
+
+            <button class="btn btn-warning btn-sm ml-5 hidden" id="prevQuestion">
+                <b>Previous</b>
+                <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                    <path fill="#000000" d="M20,10V14H11L14.5,17.5L12.08,19.92L4.16,12L12.08,4.08L14.5,6.5L11,10H20Z" />
+                </svg>
+            </button>
+
+            <button class="float-right btn btn-primary btn-sm" id="nextQuestion">
+                <b>Next</b>
+                <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                    <path fill="#FFFFFF" d="M4,10V14H13L9.5,17.5L11.92,19.92L19.84,12L11.92,4.08L9.5,6.5L13,10H4Z" />
+                </svg>
+            </button>
+            <span class="clearfix"></span>
+        </div>
+
+        <div id="questionsDiv">
+
+        </div>
+        <div class="align-content-center text-center hidden" id="questionNumberDiv">
+        </div>
+    </div>
+
+
+
+    <script src="js/theme.js"></script>
+    <script src="js/exam.js"></script>
+</body>
+
+</html>
